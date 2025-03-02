@@ -1,6 +1,5 @@
 # architecure-roadmap
 # 🛤️ Architecture Team Roadmap 2025
-# 🛤️ Architecture Team Roadmap 2025
 
 ```mermaid
 gantt

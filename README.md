@@ -1,7 +1,7 @@
 # architecure-roadmap
 # 🛤️ Architecture Team Roadmap 2025
 
-```mermaid
+```mermaid```
 gantt
     title Architecture Team Roadmap 2025
     dateFormat  YYYY-MM-DD

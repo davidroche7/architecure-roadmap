@@ -1,11 +1,12 @@
 # architecure-roadmap
 # 🛤️ Architecture Team Roadmap 2025
 
-```mermaid```
+```mermaid
 gantt
-    title Architecture Team Roadmap 2025
+    title Roadmap Timeline
     dateFormat  YYYY-MM-DD
-
+    axisFormat  %b %Y
+    
     section Product Initiatives
     Feature X Redesign         :done,    2025-01-01, 2025-03-01
     New Payment Integration    :active,  2025-03-01, 2025-06-01
@@ -23,13 +24,4 @@ gantt
     section Innovation
     AI-driven Observability    :active,  2025-04-01, 2025-06-30
     Edge Computing Pilot       :planned, 2025-08-01, 2025-11-30
-
-gantt
-    title Architecture Team Roadmap 2025
-    dateFormat  YYYY-MM-DD
-
-    section Product Initiatives
-    Feature X Redesign         :done,    2025-01-01, 2025-03-01
-    New Payment Integration    :active,  2025-03-01, 2025-06-01
-    Feature Y Optimization     :planned, 2025-06-01, 2025-09-01
-
+```
